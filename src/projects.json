@@ -1,14 +1,8 @@
 [
     {
-        "name": "SparksDB",
-        "logo": "https://wa.zone",
-        "desc": "This is a NoSQL database with simplicity that doesn't need tiresome setup.",
-        "link": "https://sparls-db.zone.id"
-    },
-    {
-        "name": "SparksAPI",
-        "logo": "https://wa.zone",
-        "desc": "This is a NoSQL database with simplicity that doesn't need tiresome setup.",
-        "link": "https://sparls-db.zone.id"
+        "name": "free4techies",
+        "logo": "https://file.garden/ar_7Ycq3aMY3ylLA/Screenshot_2026-10-02-20-41-33-054_com.android.chrome.jpg",
+        "desc": "This is a catalogue for all free resources.",
+        "link": "https://free4techies.vercel.app"
     }
 ]
